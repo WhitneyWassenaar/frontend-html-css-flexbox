@@ -141,5 +141,7 @@ Nu je de productkaarten correct hebt uitgelijnd, gaan we ze verder opmaken en vu
 
 * Voeg een afbeelding toe aan alle kaarten en zorg dat deze _responsive_ zijn.
 
+![screenshot-eindresultaat.png](assets/screenshots/screenshot-eindresultaat.png)
+
 Als je alles goed hebt geïmplementeerd, zou jouw pagina er precies zo uit moeten zien als de voorbeelden. Test je
 project door het scherm te verkleinen en te vergroten: past alles zich netjes aan?
