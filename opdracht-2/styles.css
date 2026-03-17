@@ -6,7 +6,6 @@ body {
 
 main {
 
-    overflow: auto;
     flex:3 1 500px;
 }
 
@@ -14,6 +13,7 @@ main {
     display: flex;
    flex-direction: column;
     flex:10 1 500px;
+    overflow: auto;
 
 }
 /* ------------------------------- 2. Typography ----------------------------------- */
